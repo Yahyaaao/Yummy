@@ -135,7 +135,7 @@ class _ConnexionPageState extends State<ConnexionPage> {
                           fontSize: 13,
                         ),
                         prefixIcon: const Icon(
-                          Icons.mail_outline,
+                          Icons.mail_outline,  
                           size: 18,
                           color: Colors.grey,
                         ),
@@ -345,6 +345,7 @@ class _ConnexionPageState extends State<ConnexionPage> {
                 ],
               ),
             ],
+
           ),
         ),
       ),
